@@ -21,10 +21,6 @@
 - Permite registrar productos, gestionar tallas, imágenes, stock y usuarios.
 - Vista única para agregar, editar, eliminar y listar productos.
 
-### 🎮 Tic Tac Toe
-- Juego en Python donde el usuario siempre juega con “X” y la IA con “O”.
-- Implementa lógica de turnos y verificación de ganadores.
-
 ---
 
 ## 📌 Objetivos Actuales
