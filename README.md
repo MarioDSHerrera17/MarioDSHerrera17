@@ -11,9 +11,9 @@
 
 ¡Hola! 👋  
 Soy estudiante de **Ingeniería en Sistemas Computacionales**, apasionado por el **desarrollo de software**, las **bases de datos**, las **redes** y la **infraestructura tecnológica**.  
-Me gusta resolver problemas mediante **código limpio, eficiente y escalable**, y actualmente me encuentro fortaleciendo mis habilidades como **desarrollador full-stack**, así como en **contenedores y backend moderno**.
+Me gusta resolver problemas mediante **código limpio, eficiente y escalable**, y actualmente me encuentro fortaleciendo mis habilidades como **desarrollador full-stack**, **backend moderno** y **contenedores**.
 
-También cuento con experiencia en **soporte técnico**, diagnóstico de fallas y mantenimiento de equipos, combinando conocimientos de software y hardware.
+También tengo experiencia en **soporte técnico** y en el uso de **sistemas institucionales como SIGOL**, combinando conocimientos técnicos y operativos.
 
 ---
 
@@ -52,9 +52,14 @@ También cuento con experiencia en **soporte técnico**, diagnóstico de fallas 
 
 ---
 
-### 🔹 Sistemas Operativos
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![Windows](https://img.shields.io/badge/-Windows-0078D6?style=flat&logo=windows&logoColor=white)
+### 🔹 Sistemas y Plataformas
+- 🏫 **SIGOL** (Sistema Integral de Gestión Académica)
+  - Consulta y gestión de información académica
+  - Seguimiento de materias, horarios y procesos escolares
+  - Uso constante en entorno institucional
+- 🖥️ Sistemas Operativos:
+  ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
+  ![Windows](https://img.shields.io/badge/-Windows-0078D6?style=flat&logo=windows&logoColor=white)
 
 ---
 
@@ -62,7 +67,8 @@ También cuento con experiencia en **soporte técnico**, diagnóstico de fallas 
 - 🛠️ Diagnóstico y solución de fallas de hardware y software  
 - 💻 Mantenimiento preventivo y correctivo de equipos  
 - 🌐 Configuración básica de redes y sistemas operativos  
-- 🔐 Respaldo de información y soporte al usuario final  
+- 🔐 Respaldo de información y atención a usuarios  
+- 📋 Apoyo en plataformas institucionales (SIGOL)
 
 ---
 
@@ -71,18 +77,16 @@ También cuento con experiencia en **soporte técnico**, diagnóstico de fallas 
 ### 🛒 Sistema de Punto de Venta
 - 🧩 **Backend:** PHP + MySQL  
 - 📦 Gestión de productos, tallas, imágenes, stock y usuarios  
-- 🧭 Interfaz administrativa con CRUD completo  
+- 🧭 CRUD completo desde una sola interfaz  
 - 🔐 Control de accesos y validaciones  
-
-*(Más proyectos disponibles en mis repositorios 👇)*
 
 ---
 
 ## 🎯 Objetivos Actuales
 
-- 🗣️ Mejorar mi nivel de **inglés conversacional y técnico**
-- 🧠 Profundizar en **desarrollo web full-stack**, **Spring Boot** y **Node.js**
-- 🐳 Aplicar **Docker** en entornos de desarrollo y despliegue
+- 🗣️ Mejorar mi **inglés conversacional y técnico**
+- 🧠 Profundizar en **Spring Boot**, **Node.js** y **Vue**
+- 🐳 Aplicar **Docker** en entornos reales
 - 🌍 Colaborar en **proyectos open source** y obtener **prácticas profesionales**
 
 ---
