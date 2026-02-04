@@ -1,5 +1,5 @@
 <h1 align="center">👨‍💻 Mario Dael Sierra Herrera</h1>
-<h3 align="center">Estudiante de Ingeniería en Sistemas Computacionales | 21 años | Apasionado por la tecnología</h3>
+<h3 align="center">Estudiante de Ingeniería en Sistemas Computacionales | 22 años | Apasionado por la tecnología</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=MarioDSHerrera17&label=Profile%20views&color=0e75b6&style=flat" alt="MarioDSHerrera17" />
