@@ -9,13 +9,17 @@
 
 ## 💡 Sobre mí
 
-¡Hola! Soy un estudiante de **Ingeniería en Sistemas Computacionales** con entusiasmo por el desarrollo de software, las redes y las bases de datos. Me gusta resolver problemas mediante código limpio y escalable. Actualmente me encuentro mejorando mis habilidades como desarrollador full-stack.
+¡Hola! 👋  
+Soy estudiante de **Ingeniería en Sistemas Computacionales**, apasionado por el **desarrollo de software**, las **bases de datos**, las **redes** y la **infraestructura tecnológica**.  
+Me gusta resolver problemas mediante **código limpio, eficiente y escalable**, y actualmente me encuentro fortaleciendo mis habilidades como **desarrollador full-stack**, así como en **contenedores y backend moderno**.
+
+También cuento con experiencia en **soporte técnico**, diagnóstico de fallas y mantenimiento de equipos, combinando conocimientos de software y hardware.
 
 ---
 
 ## 🛠️ Tecnologías y Herramientas
 
-### Lenguajes
+### 🔹 Lenguajes
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2b%2b&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
@@ -24,60 +28,87 @@
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
 
-### Bases de datos y herramientas
+---
+
+### 🔹 Frameworks y Librerías
+![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
+![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat&logo=angular&logoColor=white)
+![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
+
+---
+
+### 🔹 Bases de Datos
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+
+---
+
+### 🔹 DevOps y Control de Versiones
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)
 
-### Frameworks y otros
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
-![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat&logo=angular&logoColor=white)
+---
 
-### Sistemas operativos
+### 🔹 Sistemas Operativos
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![Windows](https://img.shields.io/badge/-Windows-0078D6?style=flat&logo=windows&logoColor=white)
 
 ---
 
-## 📁 Proyectos destacados
+### 🔹 Soporte Técnico
+- 🛠️ Diagnóstico y solución de fallas de hardware y software  
+- 💻 Mantenimiento preventivo y correctivo de equipos  
+- 🌐 Configuración básica de redes y sistemas operativos  
+- 🔐 Respaldo de información y soporte al usuario final  
+
+---
+
+## 📁 Proyectos Destacados
 
 ### 🛒 Sistema de Punto de Venta
-- 🧩 Backend en **PHP + MySQL**
-- 📦 Gestión de productos, tallas, imágenes, stock y usuarios
-- 🧭 Interfaz única con CRUD completo (Agregar, Editar, Eliminar, Listar)
+- 🧩 **Backend:** PHP + MySQL  
+- 📦 Gestión de productos, tallas, imágenes, stock y usuarios  
+- 🧭 Interfaz administrativa con CRUD completo  
+- 🔐 Control de accesos y validaciones  
+
+*(Más proyectos disponibles en mis repositorios 👇)*
 
 ---
 
 ## 🎯 Objetivos Actuales
 
-- 🗣️ Mejorar mi nivel de inglés conversacional y técnico  
-- 🧠 Profundizar en **desarrollo web full-stack** y **microservicios**  
-- 🌍 Colaborar en proyectos open source y obtener prácticas profesionales  
+- 🗣️ Mejorar mi nivel de **inglés conversacional y técnico**
+- 🧠 Profundizar en **desarrollo web full-stack**, **Spring Boot** y **Node.js**
+- 🐳 Aplicar **Docker** en entornos de desarrollo y despliegue
+- 🌍 Colaborar en **proyectos open source** y obtener **prácticas profesionales**
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=MarioDSHerrera17&theme=tokyonight&hide_border=true&locale=es" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=MarioDSHerrera17&theme=tokyonight&hide_border=true&locale=es" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MarioDSHerrera17&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MarioDSHerrera17&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarioDSHerrera17&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarioDSHerrera17&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
 ## 📫 Contacto
 
-- 📧 **Email:** [smariodael@gmail.com](mailto:smariodael@gmail.com)  
-- 🐙 **GitHub:** [@MarioDSHerrera17](https://github.com/MarioDSHerrera17)  
-- 💼 **LinkedIn:** [Mario Dael Sierra Herrera](https://linkedin.com/in/mario-dael-sierra-herrera-0bbb05325)  
+- 📧 **Email:** [smariodael@gmail.com](mailto:smariodael@gmail.com)
+- 🐙 **GitHub:** [@MarioDSHerrera17](https://github.com/MarioDSHerrera17)
+- 💼 **LinkedIn:** [Mario Dael Sierra Herrera](https://linkedin.com/in/mario-dael-sierra-herrera-0bbb05325)
 
 ---
 
-> 🧠 *"La programación no es solo escribir código. Es construir soluciones."*
+> 🧠 *"La programación no es solo escribir código, es construir soluciones que aporten valor."*
